@@ -5,7 +5,7 @@ Simple project showing how to set up redux toolkit. In the project, I am utilizi
 
 ## Live project
 
-[View live project](https://roniy68.gihub.io/redux-toolkit/)
+[View live project]()
 
 #### Docs
 
